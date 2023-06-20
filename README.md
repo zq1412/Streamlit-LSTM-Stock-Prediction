@@ -1,2 +1,9 @@
-# StreamlitLSTMStockPrediction
-#### This app allows the user to select with stock they would like to buy or sell. The user enters the ROI they would like and, if they are selling the selected stock, the original price they bought it at. The app then gives displays a graph with historical closing prices as well as the prediction curve on based on the tuned LSTM model (tuned on one stock's data, namely "ADBE"). Based on the prediction and the user inputs at the beginning, the app then displays a reccomendation about whether to buy or sell the stock.
+# Streamlit-Based LSTM S&P 500 Technology Stock Price Predictor
+
+## This streamlit based web app takes live stock data from Yahoo Finance from the S&P 500 Information Technology sector and uses it to predict the stock price for the next two months using a LSTM model optimized using Bayesian Optimization. Using this prediction, the app makes a recommendation about whether the user should buy or sell the stock. Please look at the paper ("Final Report.pdf") for more details on the project.
+
+
+## Getting Started
+1. Clone repository
+2. Pip install darts (a timeseries forecasting library), streamlit, and yfinance. 
+3. Run code
