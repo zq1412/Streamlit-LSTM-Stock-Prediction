@@ -13,7 +13,7 @@ This is the code used to train the hyperparameters of the model. Optuna, a Baysi
 This is the code to get a better understanding of the machine learning going on in the application.
 
 
-### 4. Final_Paper.pdf
+### 4. Final Report.pdf
 This is a paper to better understand the purpose of the application and to learn about the application in more detail.
 
 ## Running the Application
