@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=bcy6A57jAwI&t=440s&ab_channel=AIxplained
 Optuna Lecture:
 https://www.youtube.com/watch?v=P6NwZVl8ttc&t=75s&ab_channel=PyTorch
 
-Optuna Code I used for my own model. I adapted it for my data/model:
+Optuna Code I adapted for my model:
 https://unit8co.github.io/darts/userguide/hyperparameter_optimization.html
 
 ### App:
