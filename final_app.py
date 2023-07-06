@@ -1,3 +1,4 @@
+!pip install darts yfinance
 import streamlit as st
 
 from datetime import datetime
