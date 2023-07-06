@@ -10,7 +10,7 @@ This file contains the source code for the application. This is the file to run 
 This is the code used to train the hyperparameters of the model. Optuna, a Baysian Hyperparameter Optimization library, is used to find the hyperparamters found in final_app.py. The hyperparameters for the model found in final_app.py are found using one stock's data, namely Adobe stock. The code for this file is adapted from the code found at this URL: https://unit8co.github.io/darts/userguide/hyperparameter_optimization.html
 
 ### 3. Final_model.ipynb
-This is the experimental code for the model based on one stock's data. 
+This is the experimental code for the LSTM model based on one stock's data. 
 
 ## Running the Application
 1. Clone repository
