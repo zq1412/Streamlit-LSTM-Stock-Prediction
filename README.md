@@ -19,7 +19,7 @@ This is the code to get a better understanding of the machine learning going on 
 4. Run code by running this command in the terminal: streamlit run app.py
 
 ## Screenshots 
-![Alt text] (https://user-images.githubusercontent.com/121399538/251434730-e2beccc1-04fa-42d7-882e-f4c848ced768.png)
+![Alt text](https://user-images.githubusercontent.com/121399538/251434730-e2beccc1-04fa-42d7-882e-f4c848ced768.png)
 https://user-images.githubusercontent.com/121399538/251434788-fcb1e700-1453-457c-98f6-9a1d92165721.png
 https://user-images.githubusercontent.com/121399538/251434816-c9de4523-a52b-4a24-aa13-ce86608b79e0.png
 ## References:
