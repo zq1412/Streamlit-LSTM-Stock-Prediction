@@ -14,9 +14,9 @@ This is the code to get a better understanding of the machine learning going on 
 
 ## Running the Application
 1. Clone repository
-2. Open final_app.py
-3. pip install darts, streamlit, and yfinance
-4. Run code and play around with the application
+2. Open app.py
+3. Be sure to install the requirements in the requirements.txt file
+4. Run code by running this command in the terminal: streamlit run app.py
 
 ## References:
 
