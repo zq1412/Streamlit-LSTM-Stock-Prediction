@@ -42,7 +42,7 @@ Streamlit Stock Price Prediction App: https://github.com/patrickloeber/python-fu
 
 Streamlit Documentation: https://docs.streamlit.io/
 
-### Machine Lerning:
+### Machine Learning:
 
 Some LSTM tutorials: 
 https://www.youtube.com/watch?v=CbTU92pbDKw&ab_channel=GregHogg
